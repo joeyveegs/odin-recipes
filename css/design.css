@@ -52,3 +52,11 @@ a {
     display: block;
     line-height: 3.5;
 }
+
+p i {
+    line-height: 3.5;
+}
+
+#index-pad-bottom {
+    padding-bottom: 40px;
+}
